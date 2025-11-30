@@ -254,11 +254,11 @@ export class OrderFlow extends React.Component<OrderFlowProps, OrderFlowState> {
     const containerStyle: React.CSSProperties = {
       backgroundColor: finalBackgroundColor,
       border: `1px solid ${finalBorderColor}`,
-      borderRadius: '4px',
       overflow: 'hidden',
       fontFamily: 'Arial, sans-serif',
       fontSize: '12px',
       height: '400px',
+      userSelect: 'none',
       ...style
     };
     const rowHeightPercent = 100 / visibleRows;
