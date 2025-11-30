@@ -1,8 +1,8 @@
 {
-  "name": "OrderBook",
-  "version": "1.0.0",
+  "name": "@happyboy_/orderbook",
+  "version": "1.0.1",
   "description": "a orderbook react component.",
-  "license": "",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/0xhappyboy/OrderBook.git"
