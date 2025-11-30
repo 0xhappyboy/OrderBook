@@ -1,11 +1,11 @@
 {
   "name": "OrderBook",
   "version": "1.0.0",
-  "description": "",
+  "description": "a orderbook react component.",
   "license": "",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/0xhappyboy/OrderBook.git"
   },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
@@ -14,8 +14,7 @@
     "dist"
   ],
   "keywords": [
-    "multi panel",
-    "panel split"
+    "orderbook"
   ],
   "author": "happyboy",
   "type": "module",
@@ -59,7 +58,7 @@
     "microbundle-crl": "^0.13.11"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/0xhappyboy/OrderBook/issues"
   },
-  "homepage": ""
+  "homepage": "https://github.com/0xhappyboy/OrderBook#readme"
 }
